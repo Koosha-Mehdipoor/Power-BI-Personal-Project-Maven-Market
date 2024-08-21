@@ -1,6 +1,6 @@
-# Power-BI-Personal-Project-Maven-Market
 
-# Maven Market Sales Analysis
+
+# Power-BI-Maven Market Sales Analysis
 
 This repository contains a Power BI report analyzing the Maven Market dataset from [Kaggle](https://www.kaggle.com/datasets/ukveteran/maven-market-datasets). The report provides insights into sales performance, product trends, and customer segmentation.
 
